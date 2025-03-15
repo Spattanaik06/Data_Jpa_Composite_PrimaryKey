@@ -1,7 +1,5 @@
 package com.springboot.primarykey;
 
-import org.springframework.stereotype.Component;
-
 import jakarta.persistence.Embeddable;
 
 @Embeddable

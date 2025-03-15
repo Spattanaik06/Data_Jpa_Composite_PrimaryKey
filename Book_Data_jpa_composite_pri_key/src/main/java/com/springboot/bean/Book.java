@@ -1,7 +1,5 @@
 package com.springboot.bean;
 
-import org.springframework.beans.factory.annotation.Autowired;
-
 import com.springboot.primarykey.BookPrimaryKey;
 
 import jakarta.persistence.EmbeddedId;
